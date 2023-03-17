@@ -1,0 +1,7 @@
+this is a simple message to amend to the previous commit
+
+commit 2 during squash activity
+
+commit 3 during squash activity
+
+commit 4 during squash activity
